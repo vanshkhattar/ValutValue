@@ -1,0 +1,5 @@
+timestamp,product_id,product_name,location,z_score,quantity,surge_percent
+2023-07-02 19:00:00,101,Bread,Delhi,5.68,56,120.8
+2023-07-02 03:00:00,102,Milk,Delhi,3.48,57,101.0
+2023-07-02 11:00:00,102,Milk,Mumbai,3.05,50,57.3
+2023-07-02 17:00:00,103,Eggs,Mumbai,4.98,51,105.8

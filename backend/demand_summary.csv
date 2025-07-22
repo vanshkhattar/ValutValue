@@ -1,0 +1,2 @@
+product_id,product_name,location,average_demand,max_demand,min_demand,demand_variance,spike_count
+101,EnergyDrink,Hyderabad,31.26,102,9,654.23,3

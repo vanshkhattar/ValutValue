@@ -1,0 +1,21 @@
+product_id,product_name,location,avg_hourly,max_hourly,min_hourly,var_hourly,spike_count
+101,Milk,Store A,11.81,21,4,9.52,1
+101,Milk,Store B,9.1,51,3,45.63,1
+102,Bread,Store A,11.15,55,4,50.47,1
+102,Bread,Store B,11.27,73,3,91.05,1
+103,Eggs,Store A,15.17,71,3,167.33,2
+103,Eggs,Store B,15.65,79,6,180.79,2
+104,Rice,Store A,7.5,16,2,8.6,3
+104,Rice,Store B,16.4,67,7,71.01,0
+105,Juice,Store A,13.06,20,4,12.66,1
+105,Juice,Store B,16.85,90,8,132.34,0
+106,Butter,Store A,13.33,22,6,11.55,2
+106,Butter,Store B,13.35,85,3,270.36,0
+107,Apples,Store A,13.92,86,5,124.8,1
+107,Apples,Store B,14.67,23,8,13.29,1
+108,Soap,Store A,12.44,84,3,182.8,2
+108,Soap,Store B,11.88,71,4,83.98,2
+109,Shampoo,Store A,11.67,49,6,38.82,0
+109,Shampoo,Store B,11.69,23,5,12.13,2
+110,Toothpaste,Store A,11.21,54,4,51.32,1
+110,Toothpaste,Store B,12.67,86,3,131.72,0

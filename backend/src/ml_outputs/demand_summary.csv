@@ -1,0 +1,7 @@
+product_id,product_name,location,average_demand,max_demand,min_demand,demand_variance,spike_count
+101,Bread,Delhi,25.36,68,12,81.16,1
+101,Bread,Mumbai,27.67,71,16,74.82,0
+102,Milk,Delhi,28.36,65,17,68.32,1
+102,Milk,Mumbai,31.78,64,19,68.12,1
+103,Eggs,Delhi,22.5,63,10,74.17,0
+103,Eggs,Mumbai,24.78,59,12,51.5,1
