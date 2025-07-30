@@ -1,0 +1,2 @@
+product_id,location,current_stock,lead_time_days,order_cost,holding_cost_per_unit_per_year,service_level
+P001,Store A,20,2,50,10,0.95
