@@ -1,0 +1,2 @@
+product_id,location,current_stock,lead_time_days,order_cost,holding_cost_per_unit_per_year
+101,Store A,50,2,100,20

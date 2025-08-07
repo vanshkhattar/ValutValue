@@ -1,0 +1,21 @@
+product_id,location,current_stock,lead_time_days,order_cost,holding_cost_per_unit_per_year
+101,Store A,65,5,141,10
+101,Store B,46,2,197,14
+102,Store A,44,3,181,13
+102,Store B,68,5,197,12
+103,Store A,81,3,199,13
+103,Store B,52,2,163,30
+104,Store A,72,4,154,21
+104,Store B,48,4,184,15
+105,Store A,61,5,136,12
+105,Store B,83,3,160,27
+106,Store A,96,4,138,21
+106,Store B,99,4,174,24
+107,Store A,81,4,152,26
+107,Store B,54,5,194,30
+108,Store A,48,2,120,24
+108,Store B,44,4,181,18
+109,Store A,81,4,107,12
+109,Store B,55,2,103,22
+110,Store A,85,4,111,22
+110,Store B,70,3,119,20
